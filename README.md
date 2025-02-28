@@ -62,14 +62,6 @@
 
 ---
 
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Video Title 1](https://youtube.com/watch?v=...)
-- [Video Title 2](https://youtube.com/watch?v=...)
-<!-- YOUTUBE:END -->
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alhilalanwar07&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
 </p>

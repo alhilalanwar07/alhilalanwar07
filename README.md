@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alhilalanwar">
+  <a href="[https://linkedin.com/in/alhilalanwar](https://id.linkedin.com/in/alhilal-anwar-79110a152)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/alhilalanwar">

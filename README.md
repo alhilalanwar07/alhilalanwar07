@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alhilalanwar07">
+  <a href="https://linkedin.com/in/alhilalanwar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/alhilalanwar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://youtube.com/@mautautekno">
+  <a href="https://youtube.com/@alhilalanwar">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="mailto:alhilalanwar07@gmail.com">

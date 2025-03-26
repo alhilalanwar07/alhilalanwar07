@@ -18,18 +18,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alhilalanwar07&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alhilalanwar07&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhilalanwar07&layout=compact&theme=radical&hide=html" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alhilalanwar07&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
